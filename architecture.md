@@ -1,4 +1,4 @@
-# HumanSafe™ — Architettura Concettuale del Sistema
+# HumanSafeΨ™ — Architettura Concettuale del Sistema
 # Documento di Progettazione Originale v0.1.0
 
 ---
@@ -6,7 +6,7 @@
 > **AVVISO LEGALE**
 > 
 > Il presente documento descrive in forma originale un sistema concettuale, metodologico
-> e architetturale ideato dal fondatore di HumanSafe™. Costituisce opera dell'ingegno
+> e architetturale ideato dal fondatore di HumanSafeΨ™. Costituisce opera dell'ingegno
 > ai sensi della Legge 22 aprile 1941, n. 633 (Legge sul Diritto d'Autore) e della
 > Convenzione di Berna per la protezione delle opere letterarie e artistiche.
 > 
@@ -29,7 +29,7 @@
 ## Visione ad alto livello
 
 ```
-SISTEMA         : HumanSafe™ Cognitive Intelligence Ecosystem
+SISTEMA         : HumanSafeΨ™ Cognitive Intelligence Ecosystem
 VERSIONE        : 0.1.0-alpha
 PARADIGMA       : Transdisciplinary Human Empowerment Platform
 
@@ -57,7 +57,7 @@ CONSTRAINT_GLOBALI:
 ```
 /*
  * SPECCHIO COGNITIVO
- * Concetto originale HumanSafe™ — Prima descrizione pubblica: 2026-07-30
+ * Concetto originale HumanSafeΨ™ — Prima descrizione pubblica: 2026-07-31
  *
  * Premessa teorica:
  *   I bias cognitivi (Kahneman, 2011; Ariely, 2008) operano al di sotto
@@ -65,7 +65,7 @@ CONSTRAINT_GLOBALI:
  *   un tracciatore affidabile di questi pattern inconsci (Pennebaker, 1997).
  *   La mappatura non invasiva e non clinica di questi pattern, restituita
  *   all'individuo in formato comprensibile, costituisce il nucleo
- *   metodologico originale di HumanSafe™.
+ *   metodologico originale di HumanSafeΨ™.
  */
 
 INPUT:
@@ -120,7 +120,7 @@ CONSTRAINT SPECIFICI:
 ```
 /*
  * GUARDIANO DELL'ATTENZIONE
- * Concetto originale HumanSafe™ — Prima descrizione pubblica: 2026-07-30
+ * Concetto originale HumanSafeΨ™ — Prima descrizione pubblica: 2026-07-31
  *
  * Premessa teorica:
  *   L'attenzione sostenuta e diretta intenzionalmente è il prerequisito
@@ -169,7 +169,7 @@ OUTPUT:
 ```
 /*
  * PONTE DEL SAPERE
- * Concetto originale HumanSafe™ — Prima descrizione pubblica: 2026-07-30
+ * Concetto originale HumanSafeΨ™ — Prima descrizione pubblica: 2026-07-31
  *
  * Premessa teorica:
  *   La distanza tra conoscenza scientifica e vita quotidiana è il
@@ -224,7 +224,7 @@ OUTPUT:
 ```
 /*
  * PIPELINE EDITORIALE
- * Concetto originale HumanSafe™ — Prima descrizione pubblica: 2026-07-30
+ * Concetto originale HumanSafeΨ™ — Prima descrizione pubblica: 2026-07-31
  */
 
 CANALI_TARGET: [TikTok, Instagram_Reels, YouTube_Shorts, LinkedIn, Newsletter]
@@ -259,7 +259,7 @@ CONSTRAINT_EDITORIALE:
 
 ```
 HUMANSAFE_ETHICAL_FRAMEWORK v1.0
-Prima formalizzazione: 2026-07-30
+Prima formalizzazione: 2026-07-31
 
 /*
  * L'etica non è un vincolo esterno al sistema.
@@ -296,7 +296,7 @@ LIVELLO_4: Giustizia distributiva
 
 ```
 /*
- * HumanSafe™ non misura il successo con le metriche standard
+ * HumanSafeΨ™ non misura il successo con le metriche standard
  * dell'economia dell'attenzione. Definisce metriche proprie.
  */
 
@@ -317,7 +317,7 @@ MISURIAMO:
 ---
 
 <div align="right">
-  <sub>© 2026 HumanSafe™ — Documento concettuale originale.</sub><br>
-  <sub>Tutti i diritti riservati. Prima pubblicazione: 2026-07-30.</sub><br>
+  <sub>© 2026 HumanSafeΨ™ — Documento concettuale originale.</sub><br>
+  <sub>Tutti i diritti riservati. Prima pubblicazione: 2026-07-31.</sub><br>
   <sub>Protetto ai sensi della L. 633/1941 e della Convenzione di Berna.</sub>
 </div>
