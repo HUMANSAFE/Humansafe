@@ -1,4 +1,4 @@
-# Contribuire a HumanSafe™
+# Contribuire a HumanSafeΨ™
 
 > Stai leggendo questo file perché qualcosa in questo progetto ti ha colpito.
 > Bene. Significa che probabilmente sei la persona giusta.
@@ -115,5 +115,5 @@ Se non sei pronto/a a entrare come co-fondatore, puoi comunque far parte della c
 ---
 
 <div align="right">
-  <sub>© 2026 HumanSafe™</sub>
+  <sub>© 2026 HumanSafeΨ™</sub>
 </div>
