@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# HumanSafe™
+# HumanSafeΨ™
 
 **Neuroscienze. Filosofia. Agency.**
 
@@ -19,7 +19,7 @@
 
 ---
 
-> *"Viviamo in un'epoca in cui l'attenzione umana è la risorsa più saccheggiata della storia. **HumanSafe™ esiste per restituirla.**"*
+> *"Viviamo in un'epoca in cui l'attenzione umana è la risorsa più saccheggiata della storia. **HumanSafeΨ™ esiste per restituirla.**"*
 
 ---
 
@@ -31,13 +31,13 @@ Le neuroscienze cognitive lo chiamano **automatismo neurale**: un percorso sinap
 
 Jean-Paul Sartre lo aveva formulato in modo diverso: *l'essere umano è condannato ad essere libero*. Eppure viviamo come se questa libertà fosse un peso da delegare a sistemi progettati per non lasciarcela mai esercitare davvero.
 
-**HumanSafe™ è la risposta scientifica, filosofica ed etica a questa dinamica.**
+**HumanSafeΨ™ è la risposta scientifica, filosofica ed etica a questa dinamica.**
 
 ---
 
 ## La missione
 
-HumanSafe è una **startup transdisciplinare** nata per migliorare la persistenza dell'essere umano, delle società e dell'ambiente circostante.
+HumanSafeΨ™ è una **startup transdisciplinare** nata per migliorare la persistenza dell'essere umano, delle società e dell'ambiente circostante.
 
 Il postulato centrale: l'individuo è l'unico motore possibile di cambiamento reale — della biosfera e della tecnosfera. Restituirgli *agency* (il potere consapevole di agire) non è un obiettivo terapeutico. È un atto politico.
 
@@ -76,7 +76,7 @@ Il postulato centrale: l'individuo è l'unico motore possibile di cambiamento re
 
 ---
 
-## Chi siamo cercando
+## Chi stiamo cercando
 
 Stiamo costruendo il team fondatore. Non cerchiamo dipendenti — cerchiamo **co-fondatori**.
 
@@ -95,9 +95,9 @@ Videomaker, content creator o social strategist. Amplifica idee senza svuotarle.
 
 ## Proprietà intellettuale
 
-Tutti i contenuti concettuali, metodologici, filosofici e architetturali presenti in questo repository sono **opera intellettuale originale** del fondatore di HumanSafe™ e sono protetti dal diritto d'autore italiano ai sensi della **Legge 22 aprile 1941, n. 633** e successive modificazioni, dalla data del primo commit registrato su questa piattaforma.
+Tutti i contenuti concettuali, metodologici, filosofici e architetturali presenti in questo repository sono **opera intellettuale originale** del fondatore di HumanSafeΨ™ e sono protetti dal diritto d'autore italiano ai sensi della **Legge 22 aprile 1941, n. 633** e successive modificazioni, dalla data del primo commit registrato su questa piattaforma.
 
-Il segno distintivo **HumanSafe™** è utilizzato in commercio dal **2026** e la presente pubblicazione pubblica costituisce prova documentata di anteriorità d'uso ai sensi dell'art. 12 del Codice della Proprietà Industriale (D.Lgs. 30/2005).
+Il segno distintivo **HumanSafeΨ™** è utilizzato in commercio dal **2026** e la presente pubblicazione pubblica costituisce prova documentata di anteriorità d'uso ai sensi dell'art. 12 del Codice della Proprietà Industriale (D.Lgs. 30/2005).
 
 I domini **humansafe.it** e **humansafe.eu** sono registrati e in uso dal 2025.
 
@@ -117,6 +117,6 @@ I domini **humansafe.it** e **humansafe.eu** sono registrati e in uso dal 2025.
 ---
 
 <div align="center">
-  <sub>© 2026 HumanSafe™ — Tutti i diritti riservati sui contenuti originali di questo repository.</sub><br>
+  <sub>© 2026 HumanSafeΨ™ — Tutti i diritti riservati sui contenuti originali di questo repository.</sub><br>
   <sub>Prima pubblicazione documentata: 2026-07-31 | Prova di anteriorità art. 12 CPI (D.Lgs. 30/2005)</sub>
 </div>
